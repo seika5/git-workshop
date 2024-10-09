@@ -1,3 +1,14 @@
+
+# git-workshop
+
+Hello! Add whatever you want to see!
+Yay
+
+ABCDEFG
+abcdefg
+1234567
+qwerty
+=======
 # git-workshop
 
 Hello! Add whatever you want to see!
@@ -40,5 +51,6 @@ New stuff
 
 Another edit --------------
 =======
+
 
 
